@@ -12,7 +12,7 @@ from datetime import datetime
 # def CONFIGURE_JUN(jun_server,jun_username,jun_password,list_IP):
 def CONFIGURE_JUN(jun_server,jun_username,jun_password):	
 
- list_IP = ['96.6.6.6', '97.7.7.7', '98.8.8.8', '99.9.9.9']
+ list_IP = ['100.6.6.6', '100.7.7.7', '100.8.8.8', '100.9.9.9']
  listi = ["untrust","unstrust-ISP2"]
  output = []
  i = 0
