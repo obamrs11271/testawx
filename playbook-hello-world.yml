@@ -6,3 +6,7 @@
  
   - name: Hello World!
     shell: echo "Hi! Tower is working."
+
+  - name: Hello Worldv2!
+    shell: echo "Hi! Towerv2  is working."
+
